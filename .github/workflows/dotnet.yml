@@ -19,7 +19,7 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Run Integration Test
-      run: dotnet test HouseRentingSystem.Tests --no-build --verbosity normal # working
+      #run: dotnet test HouseRentingSystem.Tests --no-build --verbosity normal # working
       #Uopdate to Long command to test
-      #run: dotnet test HouseRentingSystem.Tests/IntegrationsTests./../HouseRentingSystem.Tests.csproj --no-build --verbosity normal
+      run: dotnet test HouseRentingSystem.Tests/IntegrationsTests./../HouseRentingSystem.Tests.csproj --no-build --verbosity normal
 
