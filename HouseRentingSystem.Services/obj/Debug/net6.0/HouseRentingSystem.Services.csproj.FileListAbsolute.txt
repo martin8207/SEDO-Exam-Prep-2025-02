@@ -1,0 +1,13 @@
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.sourcelink.json
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+c:\Users\Мартин\Desktop\SEDO-Exam-Prep-2025-02\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
