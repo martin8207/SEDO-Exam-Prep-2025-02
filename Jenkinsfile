@@ -14,7 +14,7 @@ pipeline {
             }
         }
         
-        stage('Run All Tests') {
+        stage('Run all Tests') {
             steps {
                 bat 'dotnet test --no-build --verbosity normal'
             }
